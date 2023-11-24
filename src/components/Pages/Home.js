@@ -15,7 +15,6 @@ import recycle5 from "../images/recycle5.jpg";
 import recycle6 from "../images/recycle6.jpg";
 import Footer from './Footer';
 import Nav from './Nav';
-import vid11 from "../images/vid11.mp4";
 import vid12 from "../images/vid12.mp4";
 import vid7 from "../images/vid7.mp4";
 import { Link } from 'react-router-dom';
